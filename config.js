@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
-global.owner = ['6285783417029'] // Owner
+global.owner = ['6283141445553'] // Owner
 global.mods = [] // moderator
 global.prems = []  //premium
 global.APIs = { // API Prefix
